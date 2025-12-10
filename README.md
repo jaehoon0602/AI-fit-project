@@ -1,12 +1,5 @@
 ## V Fit : 멀티모달 생성형 AI 기반 가상 피팅 앱서비스 
 
-<a href="https://kossa.kr/materials/2023/ossp/index.html"><img src ="https://img.shields.io/badge/2023 공개SW 개발자대회-우수작 선정-87AAAA?style=for-the-badge"/></a>
-
-## Members
-<div align="center">
-
-
-
 장재훈 | 길다영 | 김준용
 </div>
 
