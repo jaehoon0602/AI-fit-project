@@ -322,23 +322,4 @@ python ./Firtual_Fitting/flask_server.py
 - 성별 및 카테고리별 옷 데이터 추가 및 추천 기능 구현
 
 
-
-
 <br><br>
-
-## License
-
-- <b>Virtual Cloth Fitting </b> - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content](https://github.com/switchablenorms/DeepFashion_Try_On)
-- <b>Virtual Hair Fitting</b> - [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP)
-- <b>Web Crawling </b> - 1차 23.08.11, 2차 23.10.17로 무신사 스토어에 웹 크롤링을 통한 데이터 사용에 대한 문의를 전달했으며, 현재 답변 대기중. 
-
-
-
-
-
-
-
-
-
-
-
